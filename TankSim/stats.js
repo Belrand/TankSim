@@ -8032,7 +8032,7 @@ let enchants = {
        "defense": 0,
        "armor": 0,
        "parry": 0
-    }
+    },
     "Zandalar Signet of Might2": {
       "strength": 0,
       "stamina": 0,
